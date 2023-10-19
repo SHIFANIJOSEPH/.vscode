@@ -1,0 +1,16 @@
+body
+{
+    background-image:url("https://stjosephs.ac.in/today30102021/Eight.jpg");
+    background: size 2500px;;
+
+}
+#shif #login
+{
+    height: 300px;
+    width:500px;
+    background-color:white;
+    margin: 2px;
+    border:2px blue;
+    border-radius: 18px;
+}
+
